@@ -1,0 +1,4 @@
+**/**
+# !src/js/modules/**/*.js
+!dist/*.js
+!appsscript.json
